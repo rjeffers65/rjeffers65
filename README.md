@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @rjeffers65 (Riley Jefferson), working for the Ministry of Treasury Board and Finance.
-- 👀 I’m interested in Data Science, Data Engineering, and Machine Learning.
+- 👋 Hi, I’m Riley Jefferson, I work for the Ministry of Treasury Board and Finance.
+- 👀 I’m interested in data science, data engineering, and the interpretability of machine learning.
 - 📫 How to reach me: riley.jefferson@gov.ab.ca
 
 <!---
